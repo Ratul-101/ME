@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=ZONAYED&fontSize=72&fontAlignY=42&desc=MECHATRONICS%20%2F%20SOFTWARE%20%2F%20AI&descAlignY=64&descSize=17&animation=fadeIn&fontColor=E6F1FF&color=0:05080D,45:0B1726,75:123B56,100:0B2538" width="100%"/>
+# MUHAMMED ZONAYED ALI
 
-<br>
+### `ENGINEERING × CODE × DATA × AI`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=Mechatronics+%26+Industrial+Engineering+%40+CUET;learning+to+build+things+that+actually+work;currently+exploring+Python+%C2%B7+Data+%C2%B7+AI+%C2%B7+Web" alt="Typing SVG"/>
+<p>
+  <a href="https://github.com/Zonayed-dev">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/BUILDING-0B1117?style=flat-square&logo=github&logoColor=7DD3FC&labelColor=05080D"/>
-<img src="https://img.shields.io/badge/LEARNING-0B1117?style=flat-square&logo=bookstack&logoColor=7DD3FC&labelColor=05080D"/>
-<img src="https://img.shields.io/badge/EXPERIMENTING-0B1117?style=flat-square&logo=probot&logoColor=F59E0B&labelColor=05080D"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:1E3A5F&height=140&section=header&text=BUILD%20%2F%20BREAK%20%2F%20UNDERSTAND&fontSize=24&fontColor=E6EDF3&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 </div>
 
@@ -18,42 +21,42 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-# Hey, I'm Zonayed.
+## `01 / WHO I AM`
 
-I'm a **Mechatronics & Industrial Engineering student at CUET**.
+I'm a **Mechatronics & Industrial Engineering undergraduate at CUET** exploring the intersection of engineering, software, data, and AI.
 
-My interests sit somewhere between **engineering, software, data and AI**.
+I like building things — but I'm equally interested in understanding **why they work**.
 
-I'm currently learning my way through:
+Currently working with:
 
-`Python` · `Web Development` · `Data Science` · `Machine Learning`
+**C / C++** · **Python** · **HTML / CSS / JavaScript**
+**Git / GitHub** · **Data & ML fundamentals**
 
-I don't want to just know which button to press.
+My approach is pretty simple:
 
-I want to know **what happens when I press it.**
+> **Don't just make it work.
+> Understand what made it work.**
 
 </td>
 
-<td width="38%" valign="top">
+<td width="42%" valign="top">
+
+### `CURRENT SIGNAL`
 
 ```text
-╭──────────────────────╮
-│                      │
-│   ZONAYED / 01       │
-│                      │
-│   FIELD              │
-│   └─ ENGINEERING     │
-│                      │
-│   MODE               │
-│   └─ EXPERIMENT      │
-│                      │
-│   STATUS             │
-│   └─ ONLINE          │
-│                      │
-╰──────────────────────╯
+ENGINEERING    █████████████████
+SOFTWARE       ███████████████
+DATA           ████████████
+AI / ML        █████████
+RESEARCH       ████████
 ```
+
+*Not a skill rating.*
+
+Just a snapshot of where
+my attention is going.
 
 </td>
 </tr>
@@ -61,192 +64,201 @@ I want to know **what happens when I press it.**
 
 ---
 
-<div align="center">
-
-### `THE STACK`
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&theme=dark&perline=9"/>
-
-</div>
-
----
-
-# `01` — THE WORKBENCH
-
-<table>
-<tr>
-<td width="65%" valign="top">
+## `02 / THE WORKBENCH`
 
 ### Fabric Defect Annotation & QA
 
-A hands-on project involving **image annotation, structured dataset preparation, quality assessment and analysis** for fabric defects.
+**A real dataset annotation + quality-control workflow**
 
-I worked through the workflow from annotation to evaluation rather than treating the dataset as just a collection of images.
+I worked with fabric-defect annotations and built a structured QA pipeline to inspect annotation quality, maintain annotation records, and identify cases requiring review.
 
-**Dataset**
+<table>
+<tr>
+<td align="center">
 
-`97 images`   `382 annotations`   `4 classes`
+### `382`
+
+**annotations**
+
+</td>
+<td align="center">
+
+### `97`
+
+**images**
+
+</td>
+<td align="center">
+
+### `04`
+
+**defect classes**
+
+</td>
+<td align="center">
+
+### `96.86%`
+
+**accepted**
+
+</td>
+</tr>
+</table>
 
 **Classes**
 
-`Hole` · `Stain` · `Loose Thread` · `Weave Defect`
+`HOLE` · `STAIN` · `LOOSE THREAD` · `WEAVE DEFECT`
 
-**Output**
+**QA outcome**
 
-Annotation data · Guidelines · QA evaluation · Analysis · Visualizations
+`370 ACCEPTED` · `11 REVIEW` · `1 FLAGGED`
 
-</td>
+The project includes the evaluated annotation data, annotation guidelines, QA notebook, report, and visual analysis.
 
-<td width="35%" valign="middle">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ANNOTATE-111827?style=for-the-badge&logoColor=7DD3FC"/>
-<br><br>
-↓
-<br><br>
-<img src="https://img.shields.io/badge/EVALUATE-111827?style=for-the-badge&logoColor=7DD3FC"/>
-<br><br>
-↓
-<br><br>
-<img src="https://img.shields.io/badge/UNDERSTAND-111827?style=for-the-badge&logoColor=F59E0B"/>
-
-<br><br>
+<p align="center">
 
 <a href="https://github.com/Zonayed-dev/Fabric-Defect">
-<b>VIEW REPOSITORY →</b>
+<img src="https://img.shields.io/badge/→%20INSPECT%20THE%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-# `02` — AI × MY WORKFLOW
+## `03 / HOW I WORK`
 
-AI is already part of how I work.
+I use AI tools regularly as part of my workflow.
 
-Not as a replacement for learning — more like a **second pair of eyes**.
+Not as a substitute for learning.
 
-<table>
-<tr>
-<td width="25%" align="center">
+More like:
 
-### LEARN
+```text
+        ┌───────────┐
+        │   THINK   │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │   BUILD   │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │   TEST    │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │ UNDERSTAND│
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │  IMPROVE  │
+        └───────────┘
+```
 
-Break unfamiliar concepts down until they make sense.
+I use AI for **brainstorming, learning unfamiliar concepts, debugging, reviewing code, exploring approaches, and accelerating repetitive work**.
 
-</td>
+But when something catches my attention, I usually want to know what's happening underneath the abstraction.
 
-<td width="25%" align="center">
-
-### EXPLORE
-
-Generate possibilities before committing to one approach.
-
-</td>
-
-<td width="25%" align="center">
-
-### DEBUG
-
-Trace problems, question assumptions, compare fixes.
-
-</td>
-
-<td width="25%" align="center">
-
-### ITERATE
-
-Review, refine, simplify and try again.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`AI → THINK → BUILD → TEST → UNDERSTAND → BUILD BETTER`
-
-<br>
-
-<sub>
-I use AI-assisted development, but I still want to understand the code I ship.
-</sub>
-
-</div>
+Especially with **algorithms and machine learning**.
 
 ---
 
-# `03` — CURRENTLY
+## `04 / CURRENT STACK`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" />
 
-**PYTHON**
+</div>
 
 <br>
 
-Learning
+<table>
+<tr>
+<td width="33%" align="center">
+
+**PROGRAMMING**
+
+C · C++ · Python
 
 </td>
-<td align="center" width="25%">
+<td width="33%" align="center">
 
 **WEB**
 
-<br>
-
-Building
+HTML · CSS · JavaScript
 
 </td>
-<td align="center" width="25%">
+<td width="33%" align="center">
 
-**DATA**
+**WORKFLOW**
 
-<br>
-
-Exploring
-
-</td>
-<td align="center" width="25%">
-
-**ML**
-
-<br>
-
-Beginning
+Git · GitHub · VS Code
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-# `04` — SOMEWHERE BETWEEN ENGINEERING & CURIOSITY
-
-I tend to collect questions.
-
-Then sometimes they become projects.
-
-Sometimes they become experiments.
-
-Sometimes they become a folder called:
+## `05 / CURRENTLY`
 
 ```text
-final_final_v2_REAL/
+→ strengthening programming fundamentals
+→ building with Python
+→ learning data science fundamentals
+→ studying machine learning from first principles
+→ improving web development
+→ experimenting with projects that make me curious
 ```
 
+I'm still early in the journey.
+
+That's intentional.
+
+I'd rather have **five things I genuinely understand** than fifty things I can list.
+
+---
+
+## `06 / THE PERSONAL SIDE`
+
+I tend to have a slightly inconvenient habit:
+
+**when something makes me curious, I want to know how it works.**
+
+Sometimes that turns into code.
+
+Sometimes it turns into research.
+
+Sometimes it turns into an unnecessarily complicated project folder.
+
+Either way, curiosity usually wins.
+
+<br>
+
 <div align="center">
 
-**That's probably how most of this started.**
+### `CURIOUS → BUILD → BREAK → DEBUG → UNDERSTAND`
+
+</div>
+
+---
+
+## `07 / GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zonayed-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zonayed-dev&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zonayed-dev&bg_color=00000000&color=8B949E&line=58A6FF&point=E6EDF3&area=true&hide_border=true" width="95%">
 
 </div>
 
@@ -254,36 +266,12 @@ final_final_v2_REAL/
 
 <div align="center">
 
-# `05` — SIGNAL
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zonayed-dev&show_icons=true&hide_border=true&bg_color=05080D&title_color=E6F1FF&text_color=8FA7B8&icon_color=7DD3FC"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zonayed-dev&layout=compact&hide_border=true&bg_color=05080D&title_color=E6F1FF&text_color=8FA7B8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Zonayed-dev&theme=dark&hide_border=true&background=05080D&ring=7DD3FC&fire=F59E0B&currStreakLabel=E6F1FF&sideLabels=8FA7B8&currStreakNum=E6F1FF&sideNums=CBD5E1&dates=64748B"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `KEEP BUILDING.`
+### `ENGINEER BY DEGREE. BUILDER BY CURIOSITY.`
 
 <br>
 
 <a href="https://github.com/Zonayed-dev">
-<img src="https://img.shields.io/badge/GITHUB-05080D?style=for-the-badge&logo=github&logoColor=E6F1FF"/>
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20REPOS-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
-<img src="https://img.shields.io/badge/LINKEDIN-05080D?style=for-the-badge&logo=linkedin&logoColor=7DD3FC"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,45:0B1726,75:123B56,100:0B2538&height=100&section=footer" width="100%"/>
 
 </div>
