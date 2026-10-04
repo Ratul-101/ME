@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07090D"/>
+    <stop offset=".55" stop-color="#0D1117"/>
+    <stop offset="1" stop-color="#101A27"/>
+  </linearGradient>
+
+  <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#4DA3FF" stop-opacity="0"/>
+    <stop offset=".25" stop-color="#4DA3FF"/>
+    <stop offset=".75" stop-color="#78C0FF"/>
+    <stop offset="1" stop-color="#4DA3FF" stop-opacity="0"/>
+  </linearGradient>
+
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="#B7C7D9" stroke-opacity=".055"/>
+  </pattern>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+
+    .sans {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+
+</defs>
+
+<!-- BASE -->
+
+<rect width="1600" height="520" fill="url(#bg)"/>
+<rect width="1600" height="520" fill="url(#grid)"/>
+
+<!-- CROP MARKS -->
+
+<g stroke="#DCE8F5" stroke-opacity=".35" stroke-width="2">
+  <path d="M36 62h42M36 62v42"/>
+  <path d="M1564 62h-42M1564 62v42"/>
+  <path d="M36 458h42M36 458v-42"/>
+  <path d="M1564 458h-42M1564 458v-42"/>
+</g>
+
+<!-- MICRO LABELS -->
+
+<g class="mono" fill="#9FB2C7" font-size="13" letter-spacing="2">
+  <text x="72" y="86">SYSTEM / 01</text>
+  <text x="1528" y="86" text-anchor="end">MIE · CUET · BD</text>
+  <text x="72" y="442">ENGINEERING × SOFTWARE × DATA × AI</text>
+  <text x="1528" y="442" text-anchor="end">2026 / ACTIVE</text>
+</g>
+
+<!-- GEOMETRIC Z -->
+
+<g transform="translate(1030 108)">
+
+<path
+ d="M0 0H430L0 286H430"
+ fill="none"
+ stroke="#E8F1FA"
+ stroke-opacity=".9"
+ stroke-width="8"
+/>
+
+<path
+ d="M0 0H430L0 286H430"
+ fill="none"
+ stroke="#4DA3FF"
+ stroke-opacity=".25"
+ stroke-width="26"
+ filter="url(#glow)"
+/>
+
+  <circle cx="0" cy="0" r="9" fill="#78C0FF"/>
+  <circle cx="430" cy="0" r="9" fill="#78C0FF"/>
+  <circle cx="0" cy="286" r="9" fill="#78C0FF"/>
+  <circle cx="430" cy="286" r="9" fill="#78C0FF"/>
+
+  <g class="mono" fill="#7890A8" font-size="11" letter-spacing="1.5">
+    <text x="0" y="-20">X0</text>
+    <text x="430" y="-20" text-anchor="end">X430</text>
+    <text x="-18" y="306">Y286</text>
+  </g>
+
+</g>
+
+<!-- NAME -->
+
+<g class="sans" fill="#F4F7FA">
+  <text x="76" y="214" font-size="92" font-weight="800" letter-spacing="-4">
+    MUHAMMED
+  </text>
+
+  <text x="76" y="310" font-size="92" font-weight="800" letter-spacing="-4">
+    ZONAYED
+  </text>
+</g>
+
+<!-- TAGLINE -->
+
+<text
+x="80"
+y="346"
+class="mono"
+fill="#4DA3FF"
+font-size="17"
+letter-spacing="5"
+
+>
+
+BUILD / BREAK / UNDERSTAND </text>
+
+<!-- SIGNAL TRACE -->
+
+<path
+d="M78 388 H360 L390 360 H610 L638 388 H880 L914 350 H1000"
+fill="none"
+stroke="url(#signal)"
+stroke-width="3"
+/>
+
+<circle cx="390" cy="360" r="5" fill="#78C0FF"/>
+<circle cx="638" cy="388" r="5" fill="#78C0FF"/>
+<circle cx="914" cy="350" r="5" fill="#78C0FF"/>
+
+<!-- SCANNING LINE -->
+
+<rect
+x="70"
+y="398"
+width="1460"
+height="1"
+fill="#4DA3FF"
+opacity=".14"
+/>
+
+<rect
+x="70"
+y="398"
+width="180"
+height="2"
+fill="#4DA3FF"
+
+>
+
+<animate
+ attributeName="x"
+ values="70;1350;70"
+ dur="7s"
+ repeatCount="indefinite"
+/> </rect>
+
+<!-- FOOTER RULE -->
+
+<rect
+x="72"
+y="472"
+width="1456"
+height="1"
+fill="#DCE8F5"
+opacity=".16"
+/>
+
+</svg>
