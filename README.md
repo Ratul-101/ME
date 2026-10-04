@@ -1,20 +1,28 @@
 <div align="center">
 
-<img src="./assets/zonayed-system-01.svg" width="100%" alt="Zonayed System 01">
+<br>
+
+<a href="https://github.com/Zonayed-dev">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=MUHAMMED+ZONAYED+ALI;MECHATRONICS+%C3%97+SOFTWARE;DATA+%C3%97+AI;BUILDING+TO+UNDERSTAND" alt="Typing header">
+</a>
 
 <br>
 
-`MECHATRONICS`  ·  `SOFTWARE`  ·  `DATA`  ·  `AI`
+<sub>
+CUET · MECHATRONICS & INDUSTRIAL ENGINEERING · BANGLADESH
+</sub>
 
 <br><br>
 
 <a href="https://github.com/Zonayed-dev">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F4F7FA">
+<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=F4F7FA">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<br><br>
 
 </div>
 
@@ -22,61 +30,67 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="70%" valign="top">
 
-## 01 / IDENTITY
+# 01 / PROFILE
 
-# MUHAMMED ZONAYED ALI
+### I build at the intersection of **engineering and software**.
 
-Mechatronics & Industrial Engineering undergraduate at **CUET**, exploring the space where engineering, software, data and AI overlap.
+I'm a **Mechatronics & Industrial Engineering undergraduate at CUET**, currently developing my foundations across programming, web development, data, and machine learning.
 
-I'm early in the journey.
+I'm not trying to present myself as a finished engineer.
 
-And I'm not trying to hide that.
+I'm building toward one.
 
-I'm trying to build a strong foundation, make real things, break them, fix them, and understand what is happening underneath.
+My favorite part of technology is the part underneath the interface:
+
+**the logic, the system, the algorithm, the mechanism.**
 
 </td>
 
-<td width="32%" valign="top">
+<td width="30%" valign="top">
 
-### FIELD DATA
+### SYSTEM
 
-`CUET / MIE`
+`MIE / CUET`
 
 `UNDERGRADUATE`
 
 `BANGLADESH`
 
-`SYSTEM 01`
+`2026`
+
+<br>
 
 **STATUS**
 
-BUILDING.
+`BUILDING`
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
 
-# I DON'T WANT TO ONLY KNOW
+# I DON'T JUST WANT TO
 
-# **WHAT WORKS.**
+# **USE THE SYSTEM.**
 
-## I WANT TO KNOW **WHY.**
+## I WANT TO **UNDERSTAND IT.**
 
 </div>
 
+<br>
+
 ---
 
-## 02 / THE TOOLBOX
+# 02 / WHAT I'M WORKING WITH
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" width="82%">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" alt="C, C++, Python, HTML, CSS, JavaScript, Git, GitHub and VS Code">
 
 </div>
 
@@ -86,7 +100,9 @@ BUILDING.
 <tr>
 <td width="25%" valign="top">
 
-### `CODE`
+### `01`
+
+## PROGRAMMING
 
 C
 C++
@@ -96,7 +112,9 @@ Python
 
 <td width="25%" valign="top">
 
-### `WEB`
+### `02`
+
+## WEB
 
 HTML
 CSS
@@ -106,17 +124,21 @@ JavaScript
 
 <td width="25%" valign="top">
 
-### `DATA`
+### `03`
 
-Structured data
+## DATA
+
 Annotation
+Structured data
 Analysis
 
 </td>
 
 <td width="25%" valign="top">
 
-### `WORKFLOW`
+### `04`
+
+## WORKFLOW
 
 Git
 GitHub
@@ -128,7 +150,7 @@ VS Code
 
 ---
 
-# 03 / CASE STUDY 001
+# 03 / FEATURED WORK
 
 <div align="center">
 
@@ -136,57 +158,79 @@ VS Code
 
 ## ANNOTATION & QA
 
-`DATA / VISION / ANNOTATION / QUALITY CONTROL`
+`DATASET · ANNOTATION · QUALITY CONTROL`
 
 </div>
 
 <br>
 
-A practical workflow built around fabric-defect annotations: inspecting labels, maintaining structured annotation records, applying QA decisions, and producing a reproducible report.
+A hands-on data annotation and quality-assurance project built around fabric-defect imagery.
+
+The work focused on creating structured annotation records, applying consistent QA decisions, identifying cases requiring review, and producing a reproducible analysis.
 
 <br>
 
 <div align="center">
 
-|   **382**   | **97** |     **04**     | **96.86%** |
-| :---------: | :----: | :------------: | :--------: |
-| annotations | images | defect classes |  accepted  |
+<table>
+<tr>
+<td align="center">
+<h2>382</h2>
+<sub>ANNOTATIONS</sub>
+</td>
+
+<td align="center">
+<h2>97</h2>
+<sub>IMAGES</sub>
+</td>
+
+<td align="center">
+<h2>04</h2>
+<sub>DEFECT CLASSES</sub>
+</td>
+
+<td align="center">
+<h2>96.86%</h2>
+<sub>ACCEPTED</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
+### CLASSIFICATION
+
+`HOLE`    `STAIN`    `LOOSE THREAD`    `WEAVE DEFECT`
+
+### QA RESULT
+
+| STATUS     |   COUNT |      SHARE |
+| :--------- | ------: | ---------: |
+| `ACCEPTED` | **370** | **96.86%** |
+| `REVIEW`   |  **11** |  **2.88%** |
+| `FLAGGED`  |   **1** |  **0.26%** |
+
+### INCLUDED
+
+`ANNOTATION DATA` · `GUIDELINES` · `QA NOTEBOOK` · `REPORT` · `CHARTS` · `REPRESENTATIVE CASES`
+
 <br>
-
-### DEFECT TAXONOMY
-
-`HOLE`   `STAIN`   `LOOSE THREAD`   `WEAVE DEFECT`
-
-### QA OUTPUT
-
-```text
-ACCEPTED    370    ███████████████████████████████████████
-REVIEW       11    █
-FLAGGED       1    ▏
-```
-
-The repository contains the evaluated annotation data, annotation guidelines, QA notebook, report, charts, and representative review examples.
 
 <div align="center">
 
 <a href="https://github.com/Zonayed-dev/Fabric-Defect">
-
-<img src="https://img.shields.io/badge/OPEN%20CASE%20STUDY-111111?style=for-the-badge&logo=github&logoColor=F4F7FA">
-
+<img src="https://img.shields.io/badge/VIEW%20THE%20CASE%20STUDY-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-# 04 / OPERATING SYSTEM
+# 04 / HOW I APPROACH PROBLEMS
 
 <table>
 <tr>
-<td width="20%" align="center">
+<td align="center" width="20%">
 
 ### 01
 
@@ -196,43 +240,157 @@ What am I actually trying to solve?
 
 </td>
 
-<td width="20%" align="center">
+<td align="center" width="20%">
 
 ### 02
 
-**EXPLORE**
+**UNDERSTAND**
 
-Understand the problem before reaching for a library.
+What is happening underneath?
 
 </td>
 
-<td width="20%" align="center">
+<td align="center" width="20%">
 
 ### 03
 
 **BUILD**
 
-Make a working version.
+Can I make a working version?
 
 </td>
 
-<td width="20%" align="center">
+<td align="center" width="20%">
 
 ### 04
 
 **BREAK**
 
-Find out where my assumptions were wrong.
+Where are my assumptions wrong?
 
 </td>
 
-<td width="20%" align="center">
+<td align="center" width="20%">
 
 ### 05
 
-**UNDERSTAND**
+**REFINE**
 
-Keep the lesson. Improve the system.
+What did the experiment teach me?
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+`QUESTION` → `UNDERSTAND` → `BUILD` → `BREAK` → `REFINE`
+
+</div>
+
+---
+
+# 05 / AI × MY WORKFLOW
+
+AI is part of how I work.
+
+But **AI isn't the thing I'm trying to learn.**
+
+The thing I'm trying to learn is the underlying problem.
+
+I use AI to help with:
+
+|                 |                                                         |
+| :-------------- | :------------------------------------------------------ |
+| **LEARNING**    | breaking unfamiliar concepts into understandable pieces |
+| **EXPLORATION** | comparing approaches and possible solutions             |
+| **DEBUGGING**   | finding problems and testing hypotheses                 |
+| **REVIEW**      | checking code, logic, and structure                     |
+| **BUILDING**    | accelerating repetitive implementation work             |
+
+My preferred loop:
+
+<br>
+
+<div align="center">
+
+### THINK
+
+↓
+
+### ASK / EXPLORE
+
+↓
+
+### BUILD
+
+↓
+
+### TEST
+
+↓
+
+### UNDERSTAND
+
+↓
+
+### BUILD BETTER
+
+</div>
+
+<br>
+
+> **AI should make me faster at learning — not replace the learning.**
+
+---
+
+# 06 / CURRENTLY
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=Strengthening+programming+fundamentals;Building+with+Python;Improving+web+development;Learning+data+science+fundamentals;Studying+machine+learning;Understanding+algorithms+under+the+abstraction" alt="Current focus">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### LEARNING
+
+* programming fundamentals
+* Python
+* data science
+* machine learning fundamentals
+* web development
+* algorithmic thinking
+
+</td>
+
+<td width="50%" valign="top">
+
+### DIRECTION
+
+I'm especially interested in the connection between:
+
+**physical systems**
+
+↕
+
+**software**
+
+↕
+
+**data**
+
+↕
+
+**intelligent systems**
 
 </td>
 </tr>
@@ -240,137 +398,113 @@ Keep the lesson. Improve the system.
 
 ---
 
-# 05 / AI IS IN THE WORKFLOW
-
-AI is already part of how I work.
-
-But I don't want it to become a black box between me and the problem.
-
-I use AI for:
-
-`BRAINSTORMING`
-`LEARNING`
-`DEBUGGING`
-`CODE REVIEW`
-`EXPLORING APPROACHES`
-`REPETITIVE WORK`
-
-The relationship I want is closer to:
-
-```text
-                    AI
-                     │
-                     ▼
-              ┌─────────────┐
-              │    THINK    │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │    BUILD    │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │     TEST    │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │  UNDERSTAND │
-              └─────────────┘
-```
-
-**AI can help me get there faster.
-It shouldn't decide where "there" is.**
-
----
-
-# 06 / CURRENT TRANSMISSION
-
-### `ACTIVE`
-
-* strengthening programming fundamentals
-* building with Python
-* improving web development
-* learning data science fundamentals
-* studying machine learning fundamentals
-* experimenting with real datasets
-* figuring out how engineering and software can talk to each other
-
-### `NOT CLAIMING`
-
-`EXPERT`
-
-`SENIOR DEVELOPER`
-
-`ML RESEARCHER`
-
-`ROBOTICS ENGINEER`
-
-Anything else I haven't actually done.
-
-**I'm a student building the foundation.**
-
----
+# 07 / PERSONAL PROTOCOL
 
 <div align="center">
 
-# 07 / PERSONAL PROTOCOL
-
-### I HAVE A SLIGHTLY INCONVENIENT HABIT.
+## I HAVE A SLIGHTLY INCONVENIENT HABIT.
 
 <br>
 
 # WHEN SOMETHING MAKES ME CURIOUS,
 
-# I WANT TO KNOW HOW IT WORKS.
+# I WANT TO KNOW **HOW IT WORKS.**
+
+</div>
 
 <br>
 
 Sometimes that becomes code.
 
-Sometimes data.
+Sometimes it becomes a dataset.
 
-Sometimes an experiment.
+Sometimes it becomes an experiment.
 
-Sometimes a completely unnecessary rabbit hole.
+Sometimes it becomes a ridiculously deep rabbit hole.
 
-And occasionally—
+And sometimes—
+
+<div align="center">
 
 # A REPOSITORY.
 
+</div>
+
 <br>
 
-`CURIOSITY → EXPERIMENT → FAILURE → DEBUGGING → UNDERSTANDING`
+<div align="center">
+
+`CURIOSITY` → `EXPERIMENT` → `FAILURE` → `DEBUGGING` → `UNDERSTANDING`
 
 </div>
 
 ---
 
-# 08 / GITHUB SIGNAL
+# 08 / A FEW RULES
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### `01`
+
+## FUNDAMENTALS
+
+Libraries change.
+
+Fundamentals compound.
+
+</td>
+
+<td width="33%" valign="top">
+
+### `02`
+
+## BUILD
+
+A concept becomes much clearer when something actually has to work.
+
+</td>
+
+<td width="33%" valign="top">
+
+### `03`
+
+## STAY CURIOUS
+
+Most interesting projects begin with:
+
+**“Wait... can I actually do that?”**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 09 / GITHUB SIGNAL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zonayed-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Zonayed-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165" alt="GitHub statistics">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zonayed-dev&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zonayed-dev&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zonayed-dev&bg_color=00000000&color=8B949E&line=58A6FF&point=F4F7FA&area=true&hide_border=true" width="96%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zonayed-dev&bg_color=00000000&color=8B949E&line=58A6FF&point=F4F7FA&area=true&hide_border=true" width="96%" alt="GitHub activity graph">
 
 </div>
 
 ---
 
-<div align="center">
-
 <br>
 
-# ZONAYED / SYSTEM 01
+<div align="center">
 
-`ENGINEERING × CODE × DATA × AI`
+# ZONAYED
+
+### `ENGINEERING × CODE × DATA × AI`
 
 <br>
 
@@ -378,11 +512,18 @@ And occasionally—
 
 <br>
 
-<a href="https://github.com/Zonayed-dev">GITHUB</a>
-   ·    <a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">LINKEDIN</a>
+<a href="https://github.com/Zonayed-dev">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 <br><br>
 
-<sub>DESIGNED IN CODE · 2026</sub>
+<sub>MUHAMMED ZONAYED ALI · CUET · 2026</sub>
 
 </div>
