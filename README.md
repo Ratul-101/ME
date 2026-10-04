@@ -1,122 +1,231 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MUHAMMED%20ZONAYED%20ALI&fontSize=42&fontAlignY=38&desc=MIE%20%7C%20CUET&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&color=0:050505,50:111827,100:1E293B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MUHAMMED%20ZONAYED%20ALI&fontSize=46&fontAlignY=36&desc=MECHATRONICS%20%26%20INDUSTRIAL%20ENGINEERING%20%E2%80%A2%20CUET&descAlignY=58&descSize=16&animation=fadeIn&fontColor=ffffff&color=0:030303,35:0B1220,70:172554,100:0F172A" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-111827?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/BUILDING-SOMETHING-111827?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/LOCATION-CUET-111827?style=for-the-badge&labelColor=050505"/>
+<img src="https://komarev.com/ghpvc/?username=Zonayed-dev&style=for-the-badge&color=111827&label=PROFILE+SIGNALS"/>
+
+<br><br>
+
+<a href="https://github.com/Zonayed-dev">
+<img src="https://img.shields.io/badge/GITHUB-ZONAYED--DEV-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=050505"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505"/>
+</a>
 
 </div>
 
----
+<br>
 
-<div align="center">
+<table>
+<tr>
+<td width="58%" valign="top">
 
-> **"Why be normal when you can build weird things?"**
+## `01` — WHO AM I?
 
-</div>
+I'm a **Mechatronics & Industrial Engineering undergraduate at CUET** interested in the intersection of:
 
-### 🦇 `// WHOAMI`
+**engineering × software × data × AI**
+
+Right now, I'm building the fundamentals rather than pretending I already know everything.
+
+Currently exploring:
+
+* Python
+* Web Development
+* Data Science
+* Machine Learning fundamentals
+
+I like taking things apart conceptually, figuring out **why they work**, and then trying to build something myself.
+
+</td>
+
+<td width="42%" valign="top">
 
 ```text
-Muhammed Zonayed Ali
-Mechatronics & Industrial Engineering @ CUET
-
-Currently:
-    learning → Python, Web Development, Data Science, ML
-    building → small things that may or may not become useful
-    exploring → AI, software, robotics
-
-Interested in:
-    understanding things
-    breaking things
-    rebuilding things
-    occasionally wondering why I started
+╔══════════════════════════╗
+║      ZONAYED.EXE         ║
+╠══════════════════════════╣
+║                          ║
+║  STATUS   : LEARNING     ║
+║  SYSTEM   : ONLINE       ║
+║  MAJOR    : MIE          ║
+║  CAMPUS   : CUET         ║
+║                          ║
+║  MODE     : BUILD        ║
+║                          ║
+╚══════════════════════════╝
 ```
-
----
-
-### ⚙️ `// CURRENTLY LEARNING`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white"/>
-
-</div>
 
 <br>
 
+> **Curiosity is the actual tech stack.**
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-**Programming**   •   **Web**   •   **Data**   •   **Machine Learning**
+## `02` — CURRENT LOADOUT
+
+<img src="https://img.shields.io/badge/C-0B0F14?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0B0F14?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0B0F14?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0B0F14?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-0B0F14?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0B0F14?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-### 🧵 `// ONE THING I ACTUALLY FINISHED`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+## `03` — ACTUALLY BUILT
 
-## Fabric Defect Annotation & QA
+### 🧵 Fabric Defect Annotation & QA
 
-</div>
+My first proper data-oriented portfolio project.
 
-A hands-on dataset annotation and quality-assurance project for fabric defect detection.
+A hands-on workflow around **fabric-defect image annotation, quality assessment, structured data, and analysis**.
 
 ```text
 97 images
 382 annotations
 4 defect classes
 
-Hole • Stain • Loose Thread • Weave Defect
+Hole
+Stain
+Loose Thread
+Weave Defect
 ```
 
-Worked on:
+The project includes annotation guidelines, evaluated data, analysis, visualizations, and a documented QA report.
 
-`Annotation` → `Guidelines` → `QA` → `Evaluation` → `Analysis`
+**Tools:** Python · Pandas · CSV · Annotation workflow
 
-[ `VIEW PROJECT →` ](https://github.com/Zonayed-dev/Fabric-Defect)
+<br>
 
----
+<a href="https://github.com/Zonayed-dev/Fabric-Defect">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-%E2%86%92-FFFFFF?style=for-the-badge&labelColor=050505"/>
+</a>
 
-### 🧪 `// WEIRD THINGS DEPARTMENT`
+</td>
+
+<td width="50%" valign="top">
+
+## `04` — THE LAB
+
+Not everything here has to become a startup.
+
+Sometimes I just want to know:
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   🦋  Building a robotic butterfly someday  │
-│                                              │
-│   🐾  Desktop-pet ideas                     │
-│                                              │
-│   📖  Quran + emotion based app ideas       │
-│                                              │
-│   🌐  Random web experiments                 │
-│                                              │
-│   🤖  AI ideas that probably need sleep      │
-│                                              │
-└──────────────────────────────────────────────┘
+        "Can I build this?"
+                 │
+                 ▼
+          ┌─────────────┐
+          │  experiment │
+          └──────┬──────┘
+                 │
+                 ▼
+             break it
+                 │
+                 ▼
+          understand why
+                 │
+                 ▼
+           build again
 ```
 
-*Some ideas are projects. Some are experiments. Some are just me staring at a screen at 3 AM.*
+That's probably why my interests keep wandering between **software, data, AI and physical systems**.
+
+The goal isn't to collect technologies.
+
+**It's to understand them.**
+
+</td>
+</tr>
+</table>
 
 ---
-
-### 📡 `// GITHUB SIGNAL`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zonayed-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=9CA3AF&icon_color=ffffff"/>
+## `05` — CURRENTLY IN THE BATCAVE
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zonayed-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=9CA3AF"/>
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│   WEB DEVELOPMENT          ████████████░░░░   LEARNING        │
+│   PYTHON                   ██████████░░░░░░   LEARNING        │
+│   DATA SCIENCE             ███████░░░░░░░░░   EXPLORING       │
+│   MACHINE LEARNING         █████░░░░░░░░░░░   BEGINNING       │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `06` — A FEW THINGS ABOUT ME
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠
+
+**I prefer understanding**
+
+Algorithms and concepts interest me more when I know what's happening underneath the library call.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔬
+
+**I like experiments**
+
+A project doesn't need to be huge to be worth building.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️
+
+**I learn by making**
+
+The fastest way for me to understand something is usually to get my hands dirty.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `07` — GITHUB TELEMETRY
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zonayed-dev&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&ring_color=FFFFFF"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zonayed-dev&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=9CA3AF"/>
 
 </div>
 
@@ -124,8 +233,20 @@ Worked on:
 
 <div align="center">
 
-### `TRANSMISSION ENDS.`
+### `// END OF TRANSMISSION`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:1E293B&height=80&section=footer" width="100%"/>
+<br>
+
+**Still learning. Still building. Still figuring things out.**
+
+<br>
+
+<a href="https://github.com/Zonayed-dev">
+<img src="https://img.shields.io/badge/ENTER%20THE%20LAB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,40:0B1220,75:172554,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
