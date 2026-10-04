@@ -3,90 +3,42 @@
 <br>
 
 <a href="https://github.com/Zonayed-dev">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=MUHAMMED+ZONAYED+ALI;MECHATRONICS+%C3%97+SOFTWARE;DATA+%C3%97+AI;BUILDING+TO+UNDERSTAND" alt="Typing header">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Muhammed+Zonayed+Ali;Mechatronics+%26+Industrial+Engineering;Learning%2C+building%2C+figuring+things+out" alt="Typing header">
 </a>
 
 <br>
 
-<sub>
-CUET · MECHATRONICS & INDUSTRIAL ENGINEERING · BANGLADESH
-</sub>
+<sub>CUET · Bangladesh</sub>
 
 <br><br>
 
 <a href="https://github.com/Zonayed-dev">
-<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br><br>
-
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="70%" valign="top">
+## About me
 
-# 01 / PROFILE
+I'm a Mechatronics and Industrial Engineering undergraduate at CUET.
 
-### I build at the intersection of **engineering and software**.
+Right now, I'm learning programming, web development, Python, data science, and machine learning while trying to get better at the fundamentals behind them.
 
-I'm a **Mechatronics & Industrial Engineering undergraduate at CUET**, currently developing my foundations across programming, web development, data, and machine learning.
+I like making things, but I also like understanding how they work.
 
-I'm not trying to present myself as a finished engineer.
+If I come across something interesting, there's a good chance I'll end up spending far more time on it than I originally planned.
 
-I'm building toward one.
-
-My favorite part of technology is the part underneath the interface:
-
-**the logic, the system, the algorithm, the mechanism.**
-
-</td>
-
-<td width="30%" valign="top">
-
-### SYSTEM
-
-`MIE / CUET`
-
-`UNDERGRADUATE`
-
-`BANGLADESH`
-
-`2026`
-
-<br>
-
-**STATUS**
-
-`BUILDING`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-# I DON'T JUST WANT TO
-
-# **USE THE SYSTEM.**
-
-## I WANT TO **UNDERSTAND IT.**
-
-</div>
-
-<br>
+I'm still learning, so this profile is more of a record of that process than a showcase of everything I've mastered.
 
 ---
 
-# 02 / WHAT I'M WORKING WITH
+## What I'm learning
 
 <div align="center">
 
@@ -96,393 +48,110 @@ My favorite part of technology is the part underneath the interface:
 
 <br>
 
-<table>
-<tr>
-<td width="25%" valign="top">
+I'm currently spending most of my time on:
 
-### `01`
+* C and C++
+* Python
+* HTML, CSS and JavaScript
+* Web development
+* Data science
+* Machine learning fundamentals
+* Problem solving and programming fundamentals
 
-## PROGRAMMING
+I don't want to only learn how to use a library or framework.
 
-C
-C++
-Python
-
-</td>
-
-<td width="25%" valign="top">
-
-### `02`
-
-## WEB
-
-HTML
-CSS
-JavaScript
-
-</td>
-
-<td width="25%" valign="top">
-
-### `03`
-
-## DATA
-
-Annotation
-Structured data
-Analysis
-
-</td>
-
-<td width="25%" valign="top">
-
-### `04`
-
-## WORKFLOW
-
-Git
-GitHub
-VS Code
-
-</td>
-</tr>
-</table>
+I want to understand what is happening underneath it.
 
 ---
 
-# 03 / FEATURED WORK
+## Something I've actually built
 
-<div align="center">
+### Fabric Defect Annotation and QA
 
-## FABRIC DEFECT
+This was a hands on project where I worked with fabric defect images, created structured annotation data, and checked the annotations for quality.
 
-## ANNOTATION & QA
+The dataset contained four types of defects:
 
-`DATASET · ANNOTATION · QUALITY CONTROL`
+`Hole` · `Stain` · `Loose Thread` · `Weave Defect`
 
-</div>
+The final dataset had:
 
-<br>
+|         |                            |
+| :------ | :------------------------- |
+| **382** | annotations                |
+| **97**  | unique images              |
+| **4**   | defect classes             |
+| **370** | accepted annotations       |
+| **11**  | annotations needing review |
+| **1**   | flagged annotation         |
 
-A hands-on data annotation and quality-assurance project built around fabric-defect imagery.
-
-The work focused on creating structured annotation records, applying consistent QA decisions, identifying cases requiring review, and producing a reproducible analysis.
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<h2>382</h2>
-<sub>ANNOTATIONS</sub>
-</td>
-
-<td align="center">
-<h2>97</h2>
-<sub>IMAGES</sub>
-</td>
-
-<td align="center">
-<h2>04</h2>
-<sub>DEFECT CLASSES</sub>
-</td>
-
-<td align="center">
-<h2>96.86%</h2>
-<sub>ACCEPTED</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-### CLASSIFICATION
-
-`HOLE`    `STAIN`    `LOOSE THREAD`    `WEAVE DEFECT`
-
-### QA RESULT
-
-| STATUS     |   COUNT |      SHARE |
-| :--------- | ------: | ---------: |
-| `ACCEPTED` | **370** | **96.86%** |
-| `REVIEW`   |  **11** |  **2.88%** |
-| `FLAGGED`  |   **1** |  **0.26%** |
-
-### INCLUDED
-
-`ANNOTATION DATA` · `GUIDELINES` · `QA NOTEBOOK` · `REPORT` · `CHARTS` · `REPRESENTATIVE CASES`
-
-<br>
-
-<div align="center">
+I also prepared annotation guidelines, a QA notebook, analysis charts, a report, and representative examples of the different QA outcomes.
 
 <a href="https://github.com/Zonayed-dev/Fabric-Defect">
-<img src="https://img.shields.io/badge/VIEW%20THE%20CASE%20STUDY-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/See_the_project-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
+---
+
+## How I like to learn
+
+I usually start with a question.
+
+Then I try to understand it, build something small, break it, fix it, and repeat.
+
+I learn much better when I have something concrete to work on instead of only reading about a concept.
+
+And yes, I use AI tools while doing this.
+
+I use them to explain things I don't understand, discuss possible approaches, help find bugs, review code, and speed up repetitive work.
+
+But I don't want the answer without understanding it.
+
+If something works, I want to know **why it works**.
 
 ---
 
-# 04 / HOW I APPROACH PROBLEMS
+## A little more about me
 
-<table>
-<tr>
-<td align="center" width="20%">
+I'm interested in the space where engineering, software, data, and intelligent systems meet.
 
-### 01
+I enjoy projects that make me ask:
 
-**QUESTION**
+> "Can this actually be done?"
 
-What am I actually trying to solve?
+Sometimes the answer is yes.
 
-</td>
+Sometimes the answer is absolutely not.
 
-<td align="center" width="20%">
+Usually, I learn something either way.
 
-### 02
+I'm also the kind of person who can turn a small question into a surprisingly deep rabbit hole.
 
-**UNDERSTAND**
-
-What is happening underneath?
-
-</td>
-
-<td align="center" width="20%">
-
-### 03
-
-**BUILD**
-
-Can I make a working version?
-
-</td>
-
-<td align="center" width="20%">
-
-### 04
-
-**BREAK**
-
-Where are my assumptions wrong?
-
-</td>
-
-<td align="center" width="20%">
-
-### 05
-
-**REFINE**
-
-What did the experiment teach me?
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`QUESTION` → `UNDERSTAND` → `BUILD` → `BREAK` → `REFINE`
-
-</div>
+That's probably one of the reasons I enjoy engineering.
 
 ---
 
-# 05 / AI × MY WORKFLOW
+## Things I believe
 
-AI is part of how I work.
+**Learn the fundamentals.**
 
-But **AI isn't the thing I'm trying to learn.**
+Tools will change. The fundamentals stay useful.
 
-The thing I'm trying to learn is the underlying problem.
+**Build things.**
 
-I use AI to help with:
+A concept feels very different once you have to make it actually work.
 
-|                 |                                                         |
-| :-------------- | :------------------------------------------------------ |
-| **LEARNING**    | breaking unfamiliar concepts into understandable pieces |
-| **EXPLORATION** | comparing approaches and possible solutions             |
-| **DEBUGGING**   | finding problems and testing hypotheses                 |
-| **REVIEW**      | checking code, logic, and structure                     |
-| **BUILDING**    | accelerating repetitive implementation work             |
+**Stay curious.**
 
-My preferred loop:
+A lot of interesting things start with a simple question.
 
-<br>
+**Don't pretend to know something you don't.**
 
-<div align="center">
-
-### THINK
-
-↓
-
-### ASK / EXPLORE
-
-↓
-
-### BUILD
-
-↓
-
-### TEST
-
-↓
-
-### UNDERSTAND
-
-↓
-
-### BUILD BETTER
-
-</div>
-
-<br>
-
-> **AI should make me faster at learning — not replace the learning.**
+Learning is much easier when you can admit that you don't understand something yet.
 
 ---
 
-# 06 / CURRENTLY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=Strengthening+programming+fundamentals;Building+with+Python;Improving+web+development;Learning+data+science+fundamentals;Studying+machine+learning;Understanding+algorithms+under+the+abstraction" alt="Current focus">
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### LEARNING
-
-* programming fundamentals
-* Python
-* data science
-* machine learning fundamentals
-* web development
-* algorithmic thinking
-
-</td>
-
-<td width="50%" valign="top">
-
-### DIRECTION
-
-I'm especially interested in the connection between:
-
-**physical systems**
-
-↕
-
-**software**
-
-↕
-
-**data**
-
-↕
-
-**intelligent systems**
-
-</td>
-</tr>
-</table>
-
----
-
-# 07 / PERSONAL PROTOCOL
-
-<div align="center">
-
-## I HAVE A SLIGHTLY INCONVENIENT HABIT.
-
-<br>
-
-# WHEN SOMETHING MAKES ME CURIOUS,
-
-# I WANT TO KNOW **HOW IT WORKS.**
-
-</div>
-
-<br>
-
-Sometimes that becomes code.
-
-Sometimes it becomes a dataset.
-
-Sometimes it becomes an experiment.
-
-Sometimes it becomes a ridiculously deep rabbit hole.
-
-And sometimes—
-
-<div align="center">
-
-# A REPOSITORY.
-
-</div>
-
-<br>
-
-<div align="center">
-
-`CURIOSITY` → `EXPERIMENT` → `FAILURE` → `DEBUGGING` → `UNDERSTANDING`
-
-</div>
-
----
-
-# 08 / A FEW RULES
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### `01`
-
-## FUNDAMENTALS
-
-Libraries change.
-
-Fundamentals compound.
-
-</td>
-
-<td width="33%" valign="top">
-
-### `02`
-
-## BUILD
-
-A concept becomes much clearer when something actually has to work.
-
-</td>
-
-<td width="33%" valign="top">
-
-### `03`
-
-## STAY CURIOUS
-
-Most interesting projects begin with:
-
-**“Wait... can I actually do that?”**
-
-</td>
-</tr>
-</table>
-
----
-
-# 09 / GITHUB SIGNAL
+## GitHub
 
 <div align="center">
 
@@ -498,32 +167,28 @@ Most interesting projects begin with:
 
 ---
 
-<br>
-
 <div align="center">
 
-# ZONAYED
-
-### `ENGINEERING × CODE × DATA × AI`
-
 <br>
 
-## STILL BUILDING.
+### Thanks for stopping by.
+
+I'm still figuring things out, one project at a time.
 
 <br>
 
 <a href="https://github.com/Zonayed-dev">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Explore-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-<sub>MUHAMMED ZONAYED ALI · CUET · 2026</sub>
+<sub>Muhammed Zonayed Ali · CUET</sub>
 
 </div>
