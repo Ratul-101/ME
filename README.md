@@ -24,136 +24,287 @@
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## About me
 
 I'm a Mechatronics and Industrial Engineering undergraduate at CUET.
 
-Right now, I'm learning programming, web development, Python, data science, and machine learning while trying to get better at the fundamentals behind them.
+At the moment, I'm learning programming, web development, Python, data science, and machine learning.
 
-I like making things, but I also like understanding how they work.
+I like building things, but I also like taking things apart and figuring out why they work.
 
-If I come across something interesting, there's a good chance I'll end up spending far more time on it than I originally planned.
+I'm still learning, and this GitHub is basically where I keep track of that journey.
 
-I'm still learning, so this profile is more of a record of that process than a showcase of everything I've mastered.
+</td>
+
+<td width="42%" valign="top">
+
+### PLAYER PROFILE
+
+**Name**
+Muhammed Zonayed Ali
+
+**Class**
+MIE Undergraduate
+
+**Location**
+Bangladesh
+
+**Current level**
+`2nd Year`
+
+**Main quest**
+`GET BETTER`
+
+**Play style**
+`CURIOUS`
+
+</td>
+</tr>
+</table>
 
 ---
-
-## What I'm learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" alt="C, C++, Python, HTML, CSS, JavaScript, Git, GitHub and VS Code">
+## CURRENT QUESTS
 
 </div>
 
-<br>
+<table>
+<tr>
+<td width="33%" align="center">
 
-I'm currently spending most of my time on:
+### QUEST 01
 
-* C and C++
-* Python
-* HTML, CSS and JavaScript
-* Web development
-* Data science
-* Machine learning fundamentals
-* Problem solving and programming fundamentals
+**Programming**
 
-I don't want to only learn how to use a library or framework.
+Getting stronger with
+C · C++ · Python
 
-I want to understand what is happening underneath it.
+</td>
+
+<td width="33%" align="center">
+
+### QUEST 02
+
+**Web Development**
+
+Learning to build things
+for the actual web
+
+</td>
+
+<td width="33%" align="center">
+
+### QUEST 03
+
+**Machine Learning**
+
+Starting from the fundamentals
+and working upward
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Something I've actually built
+<div align="center">
+
+## SKILL INVENTORY
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" alt="Skills">
+
+<br><br>
+
+`C` · `C++` · `Python` · `HTML` · `CSS` · `JavaScript`
+
+`Git` · `GitHub` · `VS Code`
+
+</div>
+
+---
+
+## Completed mission
 
 ### Fabric Defect Annotation and QA
 
-This was a hands on project where I worked with fabric defect images, created structured annotation data, and checked the annotations for quality.
+My first proper data focused project.
 
-The dataset contained four types of defects:
+I worked with fabric defect images, created structured annotation records, checked them for quality, and documented the results.
+
+**The numbers**
+
+<table>
+<tr>
+<td align="center">
+
+### 382
+
+annotations
+
+</td>
+<td align="center">
+
+### 97
+
+images
+
+</td>
+<td align="center">
+
+### 4
+
+defect types
+
+</td>
+<td align="center">
+
+### 370
+
+accepted
+
+</td>
+</tr>
+</table>
+
+The four defect classes were:
 
 `Hole` · `Stain` · `Loose Thread` · `Weave Defect`
 
-The final dataset had:
-
-|         |                            |
-| :------ | :------------------------- |
-| **382** | annotations                |
-| **97**  | unique images              |
-| **4**   | defect classes             |
-| **370** | accepted annotations       |
-| **11**  | annotations needing review |
-| **1**   | flagged annotation         |
-
-I also prepared annotation guidelines, a QA notebook, analysis charts, a report, and representative examples of the different QA outcomes.
+I also prepared annotation guidelines, a notebook, analysis charts, a report, and examples of accepted, review, and flagged cases.
 
 <a href="https://github.com/Zonayed-dev/Fabric-Defect">
-<img src="https://img.shields.io/badge/See_the_project-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_MISSION-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
 
-## How I like to learn
+<div align="center">
 
-I usually start with a question.
+## EXPERIENCE POINTS
 
-Then I try to understand it, build something small, break it, fix it, and repeat.
+I don't really count XP.
 
-I learn much better when I have something concrete to work on instead of only reading about a concept.
+But if I did, it would probably come from:
 
-And yes, I use AI tools while doing this.
+</div>
 
-I use them to explain things I don't understand, discuss possible approaches, help find bugs, review code, and speed up repetitive work.
+<table>
+<tr>
+<td width="25%" align="center">
 
-But I don't want the answer without understanding it.
+**+1**
 
-If something works, I want to know **why it works**.
+Trying something
+I don't understand
 
----
+</td>
 
-## A little more about me
+<td width="25%" align="center">
 
-I'm interested in the space where engineering, software, data, and intelligent systems meet.
+**+1**
 
-I enjoy projects that make me ask:
+Breaking
+something
 
-> "Can this actually be done?"
+</td>
 
-Sometimes the answer is yes.
+<td width="25%" align="center">
 
-Sometimes the answer is absolutely not.
+**+1**
 
-Usually, I learn something either way.
+Finding out
+why it broke
 
-I'm also the kind of person who can turn a small question into a surprisingly deep rabbit hole.
+</td>
 
-That's probably one of the reasons I enjoy engineering.
+<td width="25%" align="center">
 
----
+**+1**
 
-## Things I believe
+Making it
+work
 
-**Learn the fundamentals.**
-
-Tools will change. The fundamentals stay useful.
-
-**Build things.**
-
-A concept feels very different once you have to make it actually work.
-
-**Stay curious.**
-
-A lot of interesting things start with a simple question.
-
-**Don't pretend to know something you don't.**
-
-Learning is much easier when you can admit that you don't understand something yet.
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+## My usual play style
+
+**1.** I find something interesting.
+
+**2.** I try to understand it.
+
+**3.** I build a small version.
+
+**4.** It breaks.
+
+**5.** I figure out why.
+
+**6.** I try again.
+
+That's honestly how I learn most things.
+
+---
 
 <div align="center">
+
+## AI IS IN THE TOOLBOX
+
+I use AI when it helps me learn or work faster.
+
+It can help me explain something unfamiliar, find a bug, compare approaches, review code, or get past a problem I've been stuck on.
+
+But I don't want to blindly copy answers.
+
+If I use something, I want to understand it.
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Things I care about
+
+• Understanding the fundamentals
+• Building instead of only watching tutorials
+• Asking stupid questions
+• Making mistakes early
+• Learning from them
+• Keeping things honest
+
+</td>
+
+<td width="50%" valign="top">
+
+## Things I'm curious about
+
+• How software actually works
+• What happens underneath abstractions
+• Data and machine learning
+• The connection between hardware and software
+• Weird project ideas
+• Things I probably shouldn't spend three hours investigating
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## GITHUB STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=Zonayed-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="165" alt="GitHub statistics">
 
@@ -171,20 +322,18 @@ Learning is much easier when you can admit that you don't understand something y
 
 <br>
 
-### Thanks for stopping by.
+### No final boss yet.
 
-I'm still figuring things out, one project at a time.
+Still learning.
 
-<br>
+Still building.
+
+Still figuring things out.
+
+<br><br>
 
 <a href="https://github.com/Zonayed-dev">
-<img src="https://img.shields.io/badge/GitHub-Explore-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/ENTER_THE_REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
