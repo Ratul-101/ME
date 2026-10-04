@@ -1,199 +1,58 @@
 <div align="center">
 
-# MUHAMMED ZONAYED ALI
-
-### `ENGINEERING × CODE × DATA × AI`
-
-<p>
-  <a href="https://github.com/Zonayed-dev">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:1E3A5F&height=140&section=header&text=BUILD%20%2F%20BREAK%20%2F%20UNDERSTAND&fontSize=24&fontColor=E6EDF3&animation=fadeIn&fontAlignY=55" width="100%"/>
-
-</div>
+<img src="./assets/zonayed-system-01.svg" width="100%" alt="Zonayed System 01">
 
 <br>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+`MECHATRONICS`  ·  `SOFTWARE`  ·  `DATA`  ·  `AI`
 
-## `01 / WHO I AM`
+<br><br>
 
-I'm a **Mechatronics & Industrial Engineering undergraduate at CUET** exploring the intersection of engineering, software, data, and AI.
-
-I like building things — but I'm equally interested in understanding **why they work**.
-
-Currently working with:
-
-**C / C++** · **Python** · **HTML / CSS / JavaScript**
-**Git / GitHub** · **Data & ML fundamentals**
-
-My approach is pretty simple:
-
-> **Don't just make it work.
-> Understand what made it work.**
-
-</td>
-
-<td width="42%" valign="top">
-
-### `CURRENT SIGNAL`
-
-```text
-ENGINEERING    █████████████████
-SOFTWARE       ███████████████
-DATA           ████████████
-AI / ML        █████████
-RESEARCH       ████████
-```
-
-*Not a skill rating.*
-
-Just a snapshot of where
-my attention is going.
-
-</td>
-</tr>
-</table>
-
----
-
-## `02 / THE WORKBENCH`
-
-### Fabric Defect Annotation & QA
-
-**A real dataset annotation + quality-control workflow**
-
-I worked with fabric-defect annotations and built a structured QA pipeline to inspect annotation quality, maintain annotation records, and identify cases requiring review.
-
-<table>
-<tr>
-<td align="center">
-
-### `382`
-
-**annotations**
-
-</td>
-<td align="center">
-
-### `97`
-
-**images**
-
-</td>
-<td align="center">
-
-### `04`
-
-**defect classes**
-
-</td>
-<td align="center">
-
-### `96.86%`
-
-**accepted**
-
-</td>
-</tr>
-</table>
-
-**Classes**
-
-`HOLE` · `STAIN` · `LOOSE THREAD` · `WEAVE DEFECT`
-
-**QA outcome**
-
-`370 ACCEPTED` · `11 REVIEW` · `1 FLAGGED`
-
-The project includes the evaluated annotation data, annotation guidelines, QA notebook, report, and visual analysis.
-
-<p align="center">
-
-<a href="https://github.com/Zonayed-dev/Fabric-Defect">
-<img src="https://img.shields.io/badge/→%20INSPECT%20THE%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/Zonayed-dev">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F4F7FA">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=F4F7FA">
 </a>
 
-</p>
-
----
-
-## `03 / HOW I WORK`
-
-I use AI tools regularly as part of my workflow.
-
-Not as a substitute for learning.
-
-More like:
-
-```text
-        ┌───────────┐
-        │   THINK   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   BUILD   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   TEST    │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │ UNDERSTAND│
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │  IMPROVE  │
-        └───────────┘
-```
-
-I use AI for **brainstorming, learning unfamiliar concepts, debugging, reviewing code, exploring approaches, and accelerating repetitive work**.
-
-But when something catches my attention, I usually want to know what's happening underneath the abstraction.
-
-Especially with **algorithms and machine learning**.
-
----
-
-## `04 / CURRENT STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" />
-
 </div>
 
-<br>
+---
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="68%" valign="top">
 
-**PROGRAMMING**
+## 01 / IDENTITY
 
-C · C++ · Python
+# MUHAMMED ZONAYED ALI
+
+Mechatronics & Industrial Engineering undergraduate at **CUET**, exploring the space where engineering, software, data and AI overlap.
+
+I'm early in the journey.
+
+And I'm not trying to hide that.
+
+I'm trying to build a strong foundation, make real things, break them, fix them, and understand what is happening underneath.
 
 </td>
-<td width="33%" align="center">
 
-**WEB**
+<td width="32%" valign="top">
 
-HTML · CSS · JavaScript
+### FIELD DATA
 
-</td>
-<td width="33%" align="center">
+`CUET / MIE`
 
-**WORKFLOW**
+`UNDERGRADUATE`
 
-Git · GitHub · VS Code
+`BANGLADESH`
+
+`SYSTEM 01`
+
+**STATUS**
+
+BUILDING.
 
 </td>
 </tr>
@@ -201,50 +60,295 @@ Git · GitHub · VS Code
 
 ---
 
-## `05 / CURRENTLY`
-
-```text
-→ strengthening programming fundamentals
-→ building with Python
-→ learning data science fundamentals
-→ studying machine learning from first principles
-→ improving web development
-→ experimenting with projects that make me curious
-```
-
-I'm still early in the journey.
-
-That's intentional.
-
-I'd rather have **five things I genuinely understand** than fifty things I can list.
-
----
-
-## `06 / THE PERSONAL SIDE`
-
-I tend to have a slightly inconvenient habit:
-
-**when something makes me curious, I want to know how it works.**
-
-Sometimes that turns into code.
-
-Sometimes it turns into research.
-
-Sometimes it turns into an unnecessarily complicated project folder.
-
-Either way, curiosity usually wins.
-
-<br>
-
 <div align="center">
 
-### `CURIOUS → BUILD → BREAK → DEBUG → UNDERSTAND`
+# I DON'T WANT TO ONLY KNOW
+
+# **WHAT WORKS.**
+
+## I WANT TO KNOW **WHY.**
 
 </div>
 
 ---
 
-## `07 / GITHUB`
+## 02 / THE TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" width="82%">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### `CODE`
+
+C
+C++
+Python
+
+</td>
+
+<td width="25%" valign="top">
+
+### `WEB`
+
+HTML
+CSS
+JavaScript
+
+</td>
+
+<td width="25%" valign="top">
+
+### `DATA`
+
+Structured data
+Annotation
+Analysis
+
+</td>
+
+<td width="25%" valign="top">
+
+### `WORKFLOW`
+
+Git
+GitHub
+VS Code
+
+</td>
+</tr>
+</table>
+
+---
+
+# 03 / CASE STUDY 001
+
+<div align="center">
+
+## FABRIC DEFECT
+
+## ANNOTATION & QA
+
+`DATA / VISION / ANNOTATION / QUALITY CONTROL`
+
+</div>
+
+<br>
+
+A practical workflow built around fabric-defect annotations: inspecting labels, maintaining structured annotation records, applying QA decisions, and producing a reproducible report.
+
+<br>
+
+<div align="center">
+
+|   **382**   | **97** |     **04**     | **96.86%** |
+| :---------: | :----: | :------------: | :--------: |
+| annotations | images | defect classes |  accepted  |
+
+</div>
+
+<br>
+
+### DEFECT TAXONOMY
+
+`HOLE`   `STAIN`   `LOOSE THREAD`   `WEAVE DEFECT`
+
+### QA OUTPUT
+
+```text
+ACCEPTED    370    ███████████████████████████████████████
+REVIEW       11    █
+FLAGGED       1    ▏
+```
+
+The repository contains the evaluated annotation data, annotation guidelines, QA notebook, report, charts, and representative review examples.
+
+<div align="center">
+
+<a href="https://github.com/Zonayed-dev/Fabric-Defect">
+
+<img src="https://img.shields.io/badge/OPEN%20CASE%20STUDY-111111?style=for-the-badge&logo=github&logoColor=F4F7FA">
+
+</a>
+
+</div>
+
+---
+
+# 04 / OPERATING SYSTEM
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+### 01
+
+**QUESTION**
+
+What am I actually trying to solve?
+
+</td>
+
+<td width="20%" align="center">
+
+### 02
+
+**EXPLORE**
+
+Understand the problem before reaching for a library.
+
+</td>
+
+<td width="20%" align="center">
+
+### 03
+
+**BUILD**
+
+Make a working version.
+
+</td>
+
+<td width="20%" align="center">
+
+### 04
+
+**BREAK**
+
+Find out where my assumptions were wrong.
+
+</td>
+
+<td width="20%" align="center">
+
+### 05
+
+**UNDERSTAND**
+
+Keep the lesson. Improve the system.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 05 / AI IS IN THE WORKFLOW
+
+AI is already part of how I work.
+
+But I don't want it to become a black box between me and the problem.
+
+I use AI for:
+
+`BRAINSTORMING`
+`LEARNING`
+`DEBUGGING`
+`CODE REVIEW`
+`EXPLORING APPROACHES`
+`REPETITIVE WORK`
+
+The relationship I want is closer to:
+
+```text
+                    AI
+                     │
+                     ▼
+              ┌─────────────┐
+              │    THINK    │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │    BUILD    │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │     TEST    │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │  UNDERSTAND │
+              └─────────────┘
+```
+
+**AI can help me get there faster.
+It shouldn't decide where "there" is.**
+
+---
+
+# 06 / CURRENT TRANSMISSION
+
+### `ACTIVE`
+
+* strengthening programming fundamentals
+* building with Python
+* improving web development
+* learning data science fundamentals
+* studying machine learning fundamentals
+* experimenting with real datasets
+* figuring out how engineering and software can talk to each other
+
+### `NOT CLAIMING`
+
+`EXPERT`
+
+`SENIOR DEVELOPER`
+
+`ML RESEARCHER`
+
+`ROBOTICS ENGINEER`
+
+Anything else I haven't actually done.
+
+**I'm a student building the foundation.**
+
+---
+
+<div align="center">
+
+# 07 / PERSONAL PROTOCOL
+
+### I HAVE A SLIGHTLY INCONVENIENT HABIT.
+
+<br>
+
+# WHEN SOMETHING MAKES ME CURIOUS,
+
+# I WANT TO KNOW HOW IT WORKS.
+
+<br>
+
+Sometimes that becomes code.
+
+Sometimes data.
+
+Sometimes an experiment.
+
+Sometimes a completely unnecessary rabbit hole.
+
+And occasionally—
+
+# A REPOSITORY.
+
+<br>
+
+`CURIOSITY → EXPERIMENT → FAILURE → DEBUGGING → UNDERSTANDING`
+
+</div>
+
+---
+
+# 08 / GITHUB SIGNAL
 
 <div align="center">
 
@@ -252,13 +356,9 @@ Either way, curiosity usually wins.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zonayed-dev&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zonayed-dev&bg_color=00000000&color=8B949E&line=58A6FF&point=E6EDF3&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zonayed-dev&bg_color=00000000&color=8B949E&line=58A6FF&point=F4F7FA&area=true&hide_border=true" width="96%">
 
 </div>
 
@@ -266,12 +366,23 @@ Either way, curiosity usually wins.
 
 <div align="center">
 
-### `ENGINEER BY DEGREE. BUILDER BY CURIOSITY.`
+<br>
+
+# ZONAYED / SYSTEM 01
+
+`ENGINEERING × CODE × DATA × AI`
 
 <br>
 
-<a href="https://github.com/Zonayed-dev">
-<img src="https://img.shields.io/badge/EXPLORE%20THE%20REPOS-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## STILL BUILDING.
+
+<br>
+
+<a href="https://github.com/Zonayed-dev">GITHUB</a>
+   ·    <a href="https://www.linkedin.com/in/muhammed-zonayed-ali/">LINKEDIN</a>
+
+<br><br>
+
+<sub>DESIGNED IN CODE · 2026</sub>
 
 </div>
